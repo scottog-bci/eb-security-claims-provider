@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "eb_security_claims_provider": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7021",
+      "launchBrowser": false
+    }
+  }
+}
